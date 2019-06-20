@@ -11,7 +11,7 @@ export default class Pushing extends Component {
                 <table className="table table-responsive">
                     <thead>
                         <tr>
-                            <th>Description </th>
+                            <th>Description</th>
                             <th>Id</th>
                             <th>Author</th>
                         </tr>
